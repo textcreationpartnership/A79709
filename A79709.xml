@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kirk of Scotlands conclusion in defence of the Presbyteriall government, and discipline: with their intentions towards the King, the Queene, and the royall progeny: as also against heresies and schismes.</title>
+            <author>Church of Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79709</idno>
+            <idno type="STC">Wing C4202A</idno>
+            <idno type="STC">Thomason E350_1</idno>
+            <idno type="STC">ESTC R201038</idno>
+            <idno type="EEBO-CITATION">99861619</idno>
+            <idno type="PROQUEST">99861619</idno>
+            <idno type="VID">159827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159827)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E350[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kirk of Scotlands conclusion in defence of the Presbyteriall government, and discipline: with their intentions towards the King, the Queene, and the royall progeny: as also against heresies and schismes.</title>
+                  <author>Church of Scotland.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Edinburgh, and reprinted at London for R.A.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Government --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159827:1" rendition="simple:additions"/>
+            <p>The Kirk of Scotlands CONCLUSION In defence of the <hi>Presbyteriall Government, and Diſcipline:</hi> WITH Their intentions towards the King, the Queene, and the royall Progeny: As alſo againſt Hereſies and Schiſmes.</p>
+            <p>Printed at <hi>Edinburgh,</hi> and reprinted at <hi>London</hi> for <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.A.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159827:2"/>
+            <pb n="1" facs="tcp:159827:2"/>
+            <head>The Kirk of <hi>Scotlands</hi> Concluſion in Defence of the Presbyterian Government.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Authority of the Aſſemblies Pa<g ref="char:EOLhyphen"/>rochiall, Presbyteriall, Provinciall and Nationall, and in the ſubordinati<g ref="char:EOLhyphen"/>on of the leſſer unto the greater, or of more particular Elderſhips to the lar<g ref="char:EOLhyphen"/>ger and generall Elderſhip, doth con<g ref="char:EOLhyphen"/>ſiſt the externall order, ſtrength and ſtedfaſtneſſe of the Church of Scotland, which is lovely and com<g ref="char:EOLhyphen"/>fortable to all fearing God, whether Paſtor or Pro<g ref="char:EOLhyphen"/>feſſors; and hath been very awfull and terrible, as an Army with banners, to all Papiſts, to all Hereticks, Schiſmaticks, Hirelings, and all ungodly perſons. As upon the one part they break not the bruiſed reed, nor quench the ſmoaking flax, but do cheriſh, and labour to bring to ripeneſſe and uſe the graine of Muſtard<g ref="char:EOLhyphen"/>ſeed in ſincere beginners, and the ſmalleſt talent in Preachers, having the zeale of God. So upon the o<g ref="char:EOLhyphen"/>ther part, no ſcandall of proud ſinners eſcapeth cen<g ref="char:EOLhyphen"/>ſure; no herefie or errour is ſooner hatched, but is
+<pb n="2" facs="tcp:159827:3"/>preſently ſpied out and cruſhed by ſome of the inferi<g ref="char:EOLhyphen"/>our Aſſemblies; or, if it be kept on foot and gather ſtrength, it is quite ſuppreſſed and extinguiſhed in the generall Aſſembly, which meeteth once in the yeere, and never ſuffereth ſuch baſtard-births to grow to be one yeere old, which is a true and maine cauſe why no Sects or Errours have appeared in the reformed Church of France, and in the Churches of Scotland, and of the Low-Countreyes, ſo long as they enjoyed the libertie and happineſſe of Aſſemblies; which they did no ſooner by the mercy of God recover, but im<g ref="char:EOLhyphen"/>mediately, at their brightneſſe, the miſts and mildews gathered before were ſcattered and vaniſhed. And as by the order and power of theſe Aſſemblies, Foxes are taken that they ſpoil not the Vines, and Gangrenes are prevented, that they ſpread not againſt truth and unity, all ſorts of lewd and wicked men are diſcoura<g ref="char:EOLhyphen"/>ged and put to ſhame: ſo is there excited among the godly Miniſters an holy emulation by acquaintance, conference, and by perceiving the gifts one of ano<g ref="char:EOLhyphen"/>ther, which maketh them returne from the Aſſem<g ref="char:EOLhyphen"/>blies with a meane and humble conceit of themſelves, and with new and ſtrong reſolutions for greater dili<g ref="char:EOLhyphen"/>gence in their ſtudies, and faithfulneſſe in every Paſto<g ref="char:EOLhyphen"/>rall du y, to the common benefit and edification of all the Churches; all the Miniſters are made more wiſe in matters of Government; and all the Congregati<g ref="char:EOLhyphen"/>ons are made more wiſe in matters of Government; and all the Congregations are affected with reverence to what is required of them by their particular Elder<g ref="char:EOLhyphen"/>ſhips, as having the conſent and approbation of the
+<pb n="3" facs="tcp:159827:3"/>whole Church. Many ſuch fruits are reaped of theſe Affem<g ref="char:EOLhyphen"/>blies, which without them no particular perſon or Congre<g ref="char:EOLhyphen"/>gation can have any ground to hope for or expect.</p>
+            <p>They have no Archbiſhops, Dioceſan Biſhops, Suffraganes, no Chapters, no Curats dumb nor idle Miniſters, no hire<g ref="char:EOLhyphen"/>lings, non-Reſidents, nor Pluraliſts, no Deanes nor Arch-Deacons, no Chanters, Sub-Chanters, nor Treaſurers, no Chancellours, Officials, nor Apparators, no Canons, Peti-Canons, Prebends, Singing-men, nor boyes: And yet with<g ref="char:EOLhyphen"/>out theſe and the like, they have practiſe and uſe of all the Ordinances of Chriſt; all matters Eccleſiaſticall determined remitting queſtions of tithes, marriages, divorcements, &amp;c. to the civill Judge to whom they properly doe belong, and all petitions, complaints, and Church-grievances, heard and redreſſed, both to their conſciences and eſtates, to be free of ſuch bundles and burthens of traſh and ſuperfluities. They conceive, that to erect Presbyteries, Synods, and Nationall aſſemblies, and ſtill to keep the members of that Hierarchie is, in the matter of Church-government, not unlike the Popiſh adding of Traditions to Scripture in the rule of faith, or works unto faith, in the point of ju<g ref="char:EOLhyphen"/>ſtification &amp;c. additions to Chriſts inſtitution, being not onely in reſpect of their authour humane inventi<g ref="char:EOLhyphen"/>ons, and for any uſe they can have idlements vanities and follies; but that they doe alſo corrupt the purity, and eat out the life of the Ordinances of Chriſt.</p>
+            <p>Here there is a ſuperiority without tyranny, for no Miniſter hath a Papall or Monarchicall Juriſdicti<g ref="char:EOLhyphen"/>on over his owne flock, far leſſe over Paſtors, and o<g ref="char:EOLhyphen"/>ver all the Congregations or a large Dioceſſe. Here there is a party without confuſion or diſorder, for the Paſtors are in order before the Elders, and the Elders before the Deacons; the Church is ſubordinate to
+<pb n="4" facs="tcp:159827:4"/>the Presbytery, the Presbytery to the Synod, and the Synod to the Nationall Aſſembly. One Paſtor alſo hath priority before another, for age, for zeale, for gifts, for his good deſervings of the Church, each one honouring him whom God hath honoured, and as he beareth the Image of God, which was to be ſeen amongſt the Apoſtles themſelves. But none hath power or Juriſdiction above others; even as in na<g ref="char:EOLhyphen"/>ture, one eye hath not power over another, onely the head hath power over all, even as Chriſt over his Church. The ſame may be ſeene in the Common<g ref="char:EOLhyphen"/>wealth, and in ſome of the Offices of the Roman Church it ſelfe. And laſtly, here there is a ſubjection without ſlavery, for the people are ſubject to the Pa<g ref="char:EOLhyphen"/>ſtors and Aſſemblies, yet there is no Aſſembly where<g ref="char:EOLhyphen"/>in every particular Church hath not intereſt and pow<g ref="char:EOLhyphen"/>er; nor is there any thing done but they are, if not actually, yet vertually called to conſent unto it.</p>
+            <p>As they have done, and ſuffered much for vindi<g ref="char:EOLhyphen"/>cating and maintaining the liberty of their Religion, that what belongeth unto God may be rendered un<g ref="char:EOLhyphen"/>to God; So do they deſire, that according to the rule of righteouſneſſe, each man have his own, and above all men. That the things which are Caeſars be ren<g ref="char:EOLhyphen"/>dred unto him, and to give him that which is Gods were a wronging both of God and Caeſar. They have ever been willing to taxes and to pay ſubſidies above that which they were able. They joyne with the in<g ref="char:EOLhyphen"/>ward reverence of their hearts, externall honour and obedience in all things lawfull. They powre forth their prayers to God in private and publike, for all
+<pb n="5" facs="tcp:159827:4"/>bleſſings ſpirituall upon his Royall Perſon and Go<g ref="char:EOLhyphen"/>vernment, and upon his Progenie; and for the ſame bleſſings upon the Queenes Majeſty, eſpecially that God by his Spirit would give unto her the knowledge and love of the truth. They long for her converſion as an happineſſe to her ſelfe and a mean of great hap<g ref="char:EOLhyphen"/>pineſſe to the King, to their Children, and to all their Subjects. And that the Lord may anſwer their pray<g ref="char:EOLhyphen"/>ers, they thinke it incumbent to the Church of En<g ref="char:EOLhyphen"/>gland, nor can any bond whatſoever oblige them to the contrary, to uſe the beſt and moſt powerful means, and would moſt willingly in all humility, love and re<g ref="char:EOLhyphen"/>ſpect, joyne their endeavours for that bleſſed end. And as they thus preſent their beſt deſires and praiers, ſo are they ready to ſacrifice their lives to God for his Majeſties good, and in their hearts are grieved, that their loyalty, which they account their no ſmall glo<g ref="char:EOLhyphen"/>ny, ſhould have been called in queſtion.</p>
+            <p>Neither is this all, but moreover they do acknow<g ref="char:EOLhyphen"/>ledge that his Majeſty, as ſupreame Magiſtrate, hath not only charge over the Common-wealth, but doth watch and hath inſpection over the Church and Church-matters, but in a civill way, <hi>Vos Epiſcopi in Eccleſia</hi> (ſaith <hi>Conſtantine) Ego extra Eccleſiam Epiſco<g ref="char:EOLhyphen"/>pus a Deo conſtitutus ſum.</hi> And therefore that he is by his high calling and place <hi>Cuſtos utriuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tabulae,</hi> to command the precepts of the firſt table as well as of the ſecond table to be obeyed: That he is <hi>Vindex Re<g ref="char:EOLhyphen"/>ligionis</hi> by his ſword, as the Spirit of God in Scrip<g ref="char:EOLhyphen"/>ture is <hi>Index,</hi> and the Church is <hi>Index:</hi> That he hath power to turne the conſtitutions of the Church into
+<pb n="6" facs="tcp:159827:5"/>Lawes: and to confirme them by the civill ſanction in Parliament: That he may conſtraine all his Sub<g ref="char:EOLhyphen"/>jects to do duty in matters of Religion, and may pu<g ref="char:EOLhyphen"/>niſh he tranſgreſſors: That when debates ariſe about Religion, he hath power to call the Aſſemblies of the Church to be preſent, and civilly preſide in them, and to examine their conſtitutions that he may diſcerne of them both as a Chriſtian caring for his owne ſoul, and as ſupream Magiſtrate watching over his people: and that he may doe all things which can prove him to be a kind carefull nurſing father. They account all that is vomited out to the contrary, [as that they li<g ref="char:EOLhyphen"/>ked Anarchie better then Monarchie, and that they would turne a Kingdome into a democratie,] to be b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the fictions and calumnies of the malicious ene<g ref="char:EOLhyphen"/>mies of God and his truth; not unlike the lies which were deviſed againſt the Chriſtians of old, their con<g ref="char:EOLhyphen"/>ſciences, their words, writings, and actions, even then when the world did put the worſt conſtructions upon them, were witneſſes of the integritie of their hearts. They doe ſtill hold that there can be no an<g ref="char:EOLhyphen"/>tipathy betwixt one Ordinance and another. <hi>By him Princes doe reigne,</hi> and hath alſo appointed the Offi<g ref="char:EOLhyphen"/>ce s and the Government of his owne houſe. They doe defire nothing more, then that the Son of God may raigne, and that with and under the Son of God, the King may command, and they, as good ſubjects to Chriſt and the King, may obey.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
